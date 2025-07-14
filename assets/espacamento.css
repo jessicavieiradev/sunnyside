@@ -1,0 +1,15 @@
+:root {
+    --spacing-unit-base: 0.25rem;
+
+    /* Escala de Espaçamento */
+    --spacing-0: 0;                                         /* 0px */
+    --spacing-4: var(--spacing-unit-base);                /* 4px = 0.25rem */
+    --spacing-16: calc(var(--spacing-unit-base) * 4);      /* 16px = 1rem */
+    --spacing-24: calc(var(--spacing-unit-base) * 6);      /* 24px = 1.5rem */
+    --spacing-32: calc(var(--spacing-unit-base) * 8);      /* 32px = 2rem */
+    --spacing-40: calc(var(--spacing-unit-base) * 10);    /* 40px = 2.5rem */
+    --spacing-48: calc(var(--spacing-unit-base) * 12);    /* 48px = 3rem */
+    --spacing-56: calc(var(--spacing-unit-base) * 14); /* 56px */
+    --spacing-72: calc(var(--spacing-unit-base) * 18);    /* 72px = 4.5rem */
+    --spacing-80: calc(var(--spacing-unit-base) * 20);    /* 80px = 5rem */
+}

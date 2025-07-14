@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:ital,opsz,wght@0,9..144,900;1,9..144,900&display=swap');
+
+:root {
+    --font-primary: 'Fraunces', serif;
+    --font-text: 'Barlow', sans-serif;
+
+   --font-size-5xl: 3.5rem;   /* 56px */
+    --font-size-4xl: 2.625rem; /* 42px */
+    --font-size-3xl: 2.5rem;   /* 40px */
+    --font-size-2xl: 2rem;     /* 32px */
+    --font-size-xl: 1.75rem;   /* 28px */
+    --font-size-lg: 1.25rem;   /* 20px */
+    --font-size-md: 1.125rem;  /* 18px */
+    --font-size-base: 1rem;    /* 16px */
+    --font-size-sm: 0.9375rem; /* 15px */
+    --font-size-xs: 0.875rem;  /* 14px */
+}
